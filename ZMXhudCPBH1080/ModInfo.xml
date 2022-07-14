@@ -5,7 +5,7 @@
 		<Name value="ZMXhudCPBH1080" />
 		<Description value="An extension modlet module for SMXhud adjust the block health bar size to compensate for the cursor deviation for 1080p users." />
 		<Author value="Sirillion" />
-		<Version value="r20.rc1" />
+		<Version value="r20.rc2" />
 		<Website value="http://www.nexusmods.com/7daystodie/mods/22/?" />
 	</ModInfo>
 </xml>
